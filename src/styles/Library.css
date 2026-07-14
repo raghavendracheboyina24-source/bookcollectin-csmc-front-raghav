@@ -1,0 +1,24 @@
+.library-container{
+    flex:1;
+    padding:35px;
+    background:#F5F7FB;
+    min-height:100vh;
+}
+
+.library-title{
+    margin-top:30px;
+    font-size:34px;
+    color:#222;
+}
+
+.library-subtitle{
+    color:#666;
+    margin-top:8px;
+    margin-bottom:30px;
+}
+
+.library-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    gap:25px;
+}

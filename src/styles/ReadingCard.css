@@ -1,0 +1,115 @@
+.reading-section{
+    margin-top:40px;
+}
+
+.reading-title{
+    margin-bottom:20px;
+    font-size:28px;
+    color:#222;
+}
+
+.reading-card{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:20px;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:20px;
+
+    margin-bottom:20px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+.reading-card:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.book-cover{
+
+    width:90px;
+
+    height:130px;
+
+    object-fit:cover;
+
+    border-radius:12px;
+
+}
+
+.reading-info{
+
+    flex:1;
+
+}
+
+.reading-info h3{
+
+    margin-bottom:6px;
+
+}
+
+.reading-info p{
+
+    color:gray;
+
+    margin-bottom:15px;
+
+}
+
+.progress-bar{
+
+    width:100%;
+
+    height:10px;
+
+    background:#ddd;
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+    margin-bottom:10px;
+
+}
+
+.progress-fill{
+
+    height:100%;
+
+    background:#4F46E5;
+
+}
+
+.continue-btn{
+
+    border:none;
+
+    background:#4F46E5;
+
+    color:white;
+
+    padding:12px 22px;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+}
+
+.continue-btn:hover{
+
+    background:#4338CA;
+
+}
