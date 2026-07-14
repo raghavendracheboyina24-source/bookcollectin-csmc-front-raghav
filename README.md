@@ -117,19 +117,18 @@ routes/
 
 ## 📸 Screenshots
 
-(Add screenshots here)
 
 Home Page
 
-![Home](<img width="1902" height="917" alt="Home" src="https://github.com/user-attachments/assets/b97f30ab-84f2-40c0-aebc-0d940a5a54fe" />)
+(<img width="1902" height="917" alt="Home" src="https://github.com/user-attachments/assets/b97f30ab-84f2-40c0-aebc-0d940a5a54fe" />)
 
 Add Book
 
-![Add Book](<img width="1906" height="915" alt="Addbook" src="https://github.com/user-attachments/assets/f69dccaa-652d-4e45-bb1c-e94874234371" />
+(<img width="1906" height="915" alt="Addbook" src="https://github.com/user-attachments/assets/f69dccaa-652d-4e45-bb1c-e94874234371" />
 
 Book Details
 
-![Details](<img width="1907" height="922" alt="Bookdetails" src="https://github.com/user-attachments/assets/5f28a185-a543-47bf-a2db-738e75cb4a57" />)
+(<img width="1907" height="922" alt="Bookdetails" src="https://github.com/user-attachments/assets/5f28a185-a543-47bf-a2db-738e75cb4a57" />)
 
 ---
 
