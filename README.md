@@ -125,8 +125,7 @@ Home Page
 
 Add Book
 
-![Add Book](Addbook<img width="1906" height="915" alt="Addbook" src="https://github.com/user-attachments/assets/f69dccaa-652d-4e45-bb1c-e94874234371" />
-.png)
+![Add Book](<img width="1906" height="915" alt="Addbook" src="https://github.com/user-attachments/assets/f69dccaa-652d-4e45-bb1c-e94874234371" />
 
 Book Details
 
