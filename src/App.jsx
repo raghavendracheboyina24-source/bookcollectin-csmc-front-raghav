@@ -6,6 +6,10 @@ import EditBook from "./pages/EditBook";
 import BookDetails from "./pages/BookDetails";
 import ReadingList from "./pages/ReadingList";
 import "./App.css";
+import API_URL from "./services/api";
+// or "../services/api" depending on the file location
+
+fetch(`${API_URL}/books`);
 function App() {
   return (
     <Routes>
